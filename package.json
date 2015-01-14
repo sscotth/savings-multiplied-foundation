@@ -1,0 +1,22 @@
+{
+  "name": "savings-multiplied-foundation",
+  "version": "1.0.0",
+  "description": "My Savings Multiplied",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sscotth/savings-multiplied-foundation.git"
+  },
+  "authors": [
+    "Scott <scott@sscotth.io>",
+    "Scott2 <scott2@sscotth.io>",
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscotth/savings-multiplied-foundation/issues"
+  },
+  "homepage": "https://github.com/sscotth/savings-multiplied-foundation"
+}
