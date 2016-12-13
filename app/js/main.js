@@ -1,5 +1,5 @@
 ;(function(){
   'use strict';
 
-  console.log('NSS Template Loaded');
+  console.log('NSS Templates Loaded');
 }());
